@@ -2,6 +2,10 @@
 
 Welcome to the Higher Institute of Computer Science of Kef website! This project aims to provide a comprehensive online platform for the institute's students, faculty, and staff.
 
+## Demo
+
+![website](https://github.com/Yhaziz/isi-kef-website/assets/121454985/450a9e8f-ca65-4a2b-9972-c419fb684139)
+
 ## Features
 
 - [ ] Feature 1: Faculty Directory: Showcase the faculty members of the institute, including their profiles, areas of expertise, and contact information.
